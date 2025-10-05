@@ -24,44 +24,28 @@
 ## 💻 My Tech Stack
 
 ⚡ **Languages & Frameworks:**
-🎨 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-🛡️ ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge\&logo=solidity\&logoColor=white)
 
 🚀 **Tools & Platforms:**
-💎 ![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=for-the-badge\&logo=ethers\&logoColor=white)
-⚡ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-🌐 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge\&logo=netlify\&logoColor=white)
-🗄️ ![IPFS](https://img.shields.io/badge/IPFS-009EEE?style=for-the-badge\&logo=ipfs\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=bituzin\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bituzin\&theme=radical\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bituzin\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bituzin\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-## 🌟 Fun Fact
-
-✨ Always exploring new blockchain ideas, testing smart contracts on **Remix**, and learning something new every day!
+![Ethers.js](https://img.shields.io/badge/Ethers.js-5C6BC0?style=for-the-badge\&logo=ethers\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge\&logo=netlify\&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-009EEE?style=for-the-badge\&logo=ipfs\&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
 
-🛠️ **Hardhat** – testing & deploying smart contracts
-🛠️ **Foundry** – advanced Solidity dev framework
+**Hardhat** – testing & deploying smart contracts
+**Foundry** – advanced Solidity dev framework
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=bituzin\&theme=dracula\&hide_border=false\&include_all_commits=true\&count_private=true\&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bituzin\&theme=dracula\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bituzin\&theme=dracula\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+![](https://github-profile-trophy.vercel.app/?username=bituzin\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
