@@ -15,8 +15,6 @@ Aspiring builder | Remix & smart contracts 🔥
 </div>
 
 
-</div>
-
 ```
 
 ---
