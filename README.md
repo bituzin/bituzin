@@ -18,6 +18,8 @@ Aspiring builder | Remix & smart contracts 🔥
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=12000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=pragma+solidity+^0.8.0;%0Acontract+SimpleStorage+{+uint256+public+data;+function+set(uint256+_data)+public+{+data+=_data;+}+function+get()+public+vie
 
 
+
+  
 ---
 
 ### 🌐 My Socials
