@@ -1,21 +1,26 @@
 
 <div align="center">
 
-🌐🚀 <strong>W E L C O M E   T O   M Y   B L O C K C H A I N   P R O F I L E</strong> 🚀🌐  
+<pre>
+🌐🚀 W E L C O M E   T O   M Y   B L O C K C H A I N   P R O F I L E 🚀🌐
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ✨👋 Hi frens!  
 I’m Bituzin – blockchain & crypto enthusiast  
 Aspiring builder | Remix & smart contracts 🔥  
 
 💫 I love creating apps that bridge <strong>Web2 & Web3 worlds</strong>  
-🌟 One dApp at a time | Always exploring & learning  
+🌟 One dApp at a time | Always exploring & learning
 
-🟢🟡🔵 <strong>Let’s build the future of blockchain together! 🚀</strong>  
+🟢🟡🔵 Let’s build the future of blockchain together! 🚀
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-CELO-yellow)
 ![Web3](https://img.shields.io/badge/Web3-Active-brightgreen)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
 </div>
+
 
 
 
