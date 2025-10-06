@@ -1,5 +1,8 @@
 <div align="center">
   
+<div align="center" style="margin:0; padding:0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=12000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=pragma+solidity+^0.8.0;%0Acontract+SimpleStorage+{+uint256+public+data;+function+set(uint256+_data)+public+{+data+=_data;+}+function+get()+public+view+returns(uint256)+{+return+data;+}}%0Apragma+solidity+^0.8.0;%0Aimport+@openzeppelin/contracts/token/ERC20/ERC20.sol;%0Acontract+MyToken+is+ERC20+{+constructor(uint256+initialSupply)+ERC20("MyToken","MTK")+{+_mint(msg.sender,initialSupply);+}}%0Apragma+solidity+^0.8.0;%0Acontract+Voting+{+mapping(string+=>+uint256)+public+votes;+function+vote(string+memory+candidate)+public+{+votes[candidate]+=1;+}+function+getVotes(string+memory+candidate)+public+view+returns(uint256)+{+return+votes[candidate];+}})" alt="Typing Solidity"/>
+</div>
 
 <pre>
 
