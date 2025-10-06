@@ -19,6 +19,9 @@ Aspiring builder | Remix & smart contracts 🔥
 </div>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Scrolling Text" width="800"/>
+</div>
 
 
 
