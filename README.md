@@ -1,27 +1,27 @@
+
 <div align="center">
-
-<pre style="background-color:#1e1e1e; color:#d4d4d4; padding:15px; border-radius:10px; font-family:Fira Code;">
+<pre>
+  
 🌐🚀 W E L C O M E   T O   M Y   B L O C K C H A I N   P R O F I L E 🚀🌐
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✨👋 Hi frens!  
-I’m Bituzin – blockchain & crypto enthusiast  
-Aspiring builder | Remix & smart contracts 🔥  
 
-💫 I love creating apps that bridge Web2 & Web3 worlds  
+✨👋 Hi frens!
+
+I’m Bituzin – blockchain & crypto enthusiast
+Aspiring builder | Remix & smart contracts 🔥
+
+💫 I love creating apps that bridge Web2 & Web3 worlds
 🌟 One dApp at a time | Always exploring & learning
 
 🟢🟡🔵 Let’s build the future of blockchain together! 🚀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
-<!-- Typing Solidity wewnątrz tego samego bloku -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=12000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=pragma+solidity+^0.8.0;%0Acontract+SimpleStorage+{+uint256+public+data;+function+set(uint256+_data)+public+{+data+=_data;+}+function+get()+public+vie
+</div>
 
 
 
   
----
-
 ### 🌐 My Socials
 
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://x.com/bituzin2)
