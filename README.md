@@ -19,9 +19,8 @@ Aspiring builder | Remix & smart contracts 🔥
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Scrolling Text" width="800"/>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=12000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=//+Simple+Storage%0Apragma+solidity+^0.8.0;%0Acontract+SimpleStorage+{+uint256+public+data;+function+set(uint256+_data)+public+{+data+=_data;+}+function+get()+public+view+returns(uint256)+{+return+data;+}}%0A//+ERC20+Token%0Apragma+solidity+^0.8.0;%0Aimport+@openzeppelin/contracts/token/ERC20/ERC20.sol;%0Acontract+MyToken+is+ERC20+{+constructor(uint256+initialSupply)+ERC20("MyToken","MTK")+{+_mint(msg.sender,initialSupply);+}}%0A//+Simple+Voting%0Apragma+solidity+^0.8.0;%0Acontract+Voting+{+mapping(string+=>+uint256)+public+votes;+function+vote(string+memory+candidate)+public+{+votes[candidate]+=1;+}+function+getVotes(string+memory+candidate)+public+view+returns(uint256)+{+return+votes[candidate];+}})
+
 
 
 
