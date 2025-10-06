@@ -9,17 +9,15 @@
 I’m Bituzin – blockchain & crypto enthusiast  
 Aspiring builder | Remix & smart contracts 🔥  
 
-💫 I love creating apps that bridge <strong>Web2 & Web3 worlds</strong>  
+💫 I love creating apps that bridge Web2 & Web3 worlds  
 🌟 One dApp at a time | Always exploring & learning
 
 🟢🟡🔵 Let’s build the future of blockchain together! 🚀
-
-![Blockchain](https://img.shields.io/badge/Blockchain-CELO-yellow)
-![Web3](https://img.shields.io/badge/Web3-Active-brightgreen)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </pre>
 
 </div>
+
 
 
 
