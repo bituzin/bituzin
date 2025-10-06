@@ -1,16 +1,19 @@
 ```
 <div align="center">
 
-🌐🚀 W E L C O M E   T O   M Y   B L O C K C H A I N   P R O F I L E 🚀🌐
+🌐🚀 <strong>W E L C O M E   T O   M Y   B L O C K C H A I N   P R O F I L E</strong> 🚀🌐
 
 ✨👋 Hi frens!  
 I’m Bituzin – blockchain & crypto enthusiast  
 Aspiring builder | Remix & smart contracts 🔥  
 
-💫 I love creating apps that bridge **Web2 & Web3 worlds**  
+💫 I love creating apps that bridge <strong>Web2 & Web3 worlds</strong>  
 🌟 One dApp at a time | Always exploring & learning
 
 ➤ Let’s build the future of blockchain together! 🚀
+
+</div>
+
 
 </div>
 
