@@ -13,7 +13,7 @@ Aspiring builder | Remix & smart contracts 🔥
 💫 I love creating apps that bridge Web2 & Web3 worlds
 🌟 One dApp at a time | Always exploring & learning
 
-🟢🟡🔵 Let’s build the future of blockchain together! 🚀
+🟢🟡🔵 Let’s build the  of blockchain together! 🚀
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </pre>
 
