@@ -8,7 +8,7 @@
 ✨👋 Hi frens!
 
 I’m Bituzin – blockchain & crypto enthusiast
-Aspiring builder | Remix & smart contracts 🔥
+Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 
 💫 I love creating apps that bridge Web2 & Web3 worlds
 🌟 One dApp at a time | Always exploring & learning
