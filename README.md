@@ -50,6 +50,12 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 
 **Foundry** – advanced Solidity dev framework
 
+---
+
+### 🎯 Currently Solving
+🏃 **[SpeedrunEthereum](https://speedrunethereum.com/)** – hands-on Solidity challenges  
+🚩 **[BuidlGuidl CTF](https://ctf.buidlguidl.com/)** – capture the flag Ethereum game  
+🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills
 
 ---
 
