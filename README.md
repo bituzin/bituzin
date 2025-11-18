@@ -53,9 +53,9 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 ---
 
 ### 🎯 Currently Solving
-🏃 **[SpeedrunEthereum](https://speedrunethereum.com/)** – hands-on Solidity challenges  
-🚩 **[BuidlGuidl CTF](https://ctf.buidlguidl.com/)** – capture the flag Ethereum game  
-🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills
+🏃 **[SpeedrunEthereum](https://speedrunethereum.com/)** – hands-on Solidity challenges      85%
+🚩 **[BuidlGuidl CTF](https://ctf.buidlguidl.com/)** – capture the flag Ethereum game        DONE! 
+🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills  10%
 
 ---
 
