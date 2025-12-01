@@ -57,7 +57,7 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 
 🚩 **[BuidlGuidl CTF](https://ctf.buidlguidl.com/)** – capture the flag Ethereum game - COMPLETED!
 
-🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - 10%
+🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - 15%
 
 ---
 
