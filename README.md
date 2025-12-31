@@ -56,27 +56,16 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 🏃 **[SpeedrunEthereum](https://speedrunethereum.com/)** – hands-on Solidity challenges - COMPLETED!
 
 
+
 🚩 **[BuidlGuidl CTF](https://ctf.buidlguidl.com/)** – capture the flag Ethereum game 
+
 Bangkok (S1)12/12 - COMPLETED!
+
 Buenos Aires (S2) 9/12
+
 
 🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - 15%
 
 ---
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=bituzin\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
-
----
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=bituzin\&theme=radical\&hide_border=false)
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bituzin\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=bituzin\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
