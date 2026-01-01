@@ -61,7 +61,7 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 
 Bangkok (S1) 12/12 - COMPLETED!
 
-Buenos Aires (S2) 10/12
+Buenos Aires (S2) 11/12
 
 
 🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - 15%
