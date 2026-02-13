@@ -19,7 +19,6 @@ Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
 
 </div>
 
-its over
 
   
 ### 🌐 My Socials
