@@ -63,7 +63,7 @@ Bangkok (S1) 12/12 - COMPLETED!
 Buenos Aires (S2) 12/12 - COMPLETED!
 
 
-🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - 15%
+🌳 **[ETH Tech Tree](https://www.ethtechtree.com/)** – advanced Ethereum development skills - COMPLETED!
 
 ---
 
