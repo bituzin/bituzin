@@ -5,7 +5,7 @@
 🌐🚀 W E L C O M E     T O     M Y     B L O C K C H A I N     P R O F I L E 🚀🌐
 
 
-✨👋 Hi frens!
+✨👋 Hello!
 
 I’m Bituzin – blockchain & crypto enthusiast
 Aspiring builder | Remix, Hardhat. Foundry & smart contracts 🔥
